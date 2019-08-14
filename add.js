@@ -1,5 +1,5 @@
 // add.js
-//added something
+//added something more
 function add(a, b) {
     // TODO return
 };
